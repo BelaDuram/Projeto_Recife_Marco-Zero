@@ -38,6 +38,10 @@ nav ul li {
     margin-left: 27px;
 }
 
+.navbar_link{
+    text-decoration: none;
+}
+
 img {
     width: 1200px;
     height: 600px;
